@@ -46,7 +46,7 @@
 			<div class="container">
 				<div class="row d-flex align-items-center">
 					<div class="col-md-6 d-md-block d-none">
-						<p>M Rizky Rivaldi // 2012230037</p>
+						<p>AYAM</p>
 					</div>
 					<div class="col-md-6">
 						<div class="d-flex justify-content-md-end justify-content-between">
