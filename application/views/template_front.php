@@ -85,16 +85,16 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3">
-						<h4 class="h6">Tugas Skripsi</h4>
-						<p>M Rizky Rivaldi<br>2012230037<br>Teknik Informatika<br>Universitas Darma Persada</p>
+						<h4 class="h6">Tugas ATASAN</h4>
+						<p>AYAM</p>
 						<hr>
 					</div>
 					<!--<div class="col-lg-3">
               <h4 class="h6">Contact</h4>
                 <p class="text-uppercase">
                   <strong>
-                    <i class="fa fa-phone"></i> 087780269553<br>
-                    <i class="fa fa-envelope-o"></i> muhrizkyrivaldi@gmail.com<br>
+                    <i class="fa fa-phone"></i> <br>
+                    <i class="fa fa-envelope-o"></i> <br>
                     <i class="fa fa-shopping-basket"></i> E auction
                   </strong>
                 </p>
@@ -121,7 +121,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-4 text-center-md">
-							<p>&copy; 2018. E - Auction / M Rizky Rivaldi | Repost by <a href="https://stokcoding.com/" title="StokCoding.com" target="_blank">StokCoding.com</a></p>
+							<p>&copy; 2018. E - Auction /  <a href="https://stokcoding.com/" title="StokCoding.com" target="_blank">StokCoding.com</a></p>
 						</div>
 						<div class="col-lg-8 text-right text-center-md">
 							<p>Template design by <a href="https://bootstrapious.com/free-templates">Bootstrapious Templates </a></p>
